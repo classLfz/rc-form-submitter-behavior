@@ -1,0 +1,32 @@
+{
+  "name": "rc-form-submitter-behavior",
+  "version": "0.1.1",
+  "authors": [
+    "butterandfly <zero.hero.lin@gmail.com>"
+  ],
+  "description": "A polymer behavior of form submitting",
+  "private": true,
+  "keywords": [
+    "web-component",
+    "polymer",
+    "behavior",
+    "form",
+    "submit"
+  ],
+  "main": "rc-form-submitter-behavior.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-form": "PolymerElements/iron-form#^1.0.0",
+    "paper-input": "PolymerElements/paper-input#^1.0.0",
+    "paper-button": "PolymerElements/paper-button#^1.0.0",
+    "web-component-tester": "^3.4.0"
+  }
+}
